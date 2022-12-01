@@ -28,5 +28,5 @@ this script will remove/delete our lovely betty file.
 #rm -r /tmp/my_first_directory
 this script will remove/delete the directory named 'my_first_directory' in the tmp folder and it's contents
 
-#cd $OLDPWD
+#cd -
 this short script moves us to the previous direcotry.
