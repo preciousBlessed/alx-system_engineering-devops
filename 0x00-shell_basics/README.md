@@ -24,3 +24,6 @@ this will move the file betty in tmp dir to the my_first_directory dir also in t
 
 #rm-r /tmp/my_first_directory/betty
 this script will remove/delete our lovely betty file.
+
+#rm -r /tmp/my_first_directory
+this script will remove/delete the directory named 'my_first_directory' in the tmp folder and it's contents
