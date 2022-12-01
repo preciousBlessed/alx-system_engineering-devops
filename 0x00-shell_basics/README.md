@@ -30,3 +30,6 @@ this script will remove/delete the directory named 'my_first_directory' in the t
 
 #cd -
 this short script moves us to the previous direcotry.
+
+#ls -la . .. /boot
+to list the details of files in the current, parent and boot directory in order.
