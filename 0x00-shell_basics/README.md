@@ -21,3 +21,6 @@ this will create a file named my_first_directory in tmp directory that is two st
 
 #mv /tmp/betty /tmp/my_first_directory/
 this will move the file betty in tmp dir to the my_first_directory dir also in tmp.
+
+#rm-r /tmp/my_first_directory/betty
+this script will remove/delete our lovely betty file.
