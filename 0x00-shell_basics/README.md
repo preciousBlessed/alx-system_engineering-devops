@@ -12,3 +12,6 @@ To display the current directories content in a long format.
 
 #ls -la
 To display more detailed and hidden contents in the current diirectory.
+
+#ls -na
+To display list of group and user IDs.
