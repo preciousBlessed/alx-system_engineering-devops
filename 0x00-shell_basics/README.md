@@ -8,4 +8,7 @@ It list the contents of the current directory
 It takes us to the home directory.
 
 #ls -l
-Todisplay the current directories content in a long format.
+To display the current directories content in a long format.
+
+#ls -la
+To display more detailed and hidden contents in the current diirectory.
