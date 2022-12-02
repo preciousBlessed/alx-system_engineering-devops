@@ -42,3 +42,6 @@ Changes the ownership on the hello file to the group school
 
 #chown vincent:staff * */
 change the owner to vincent and the group to staff for all files and directories.
+
+#chown vincent:staff _hello
+Changes the owner to vincent and the group to staff for a file _hello.
