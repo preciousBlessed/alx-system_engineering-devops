@@ -13,3 +13,6 @@ This command will change the ownership of a file hello to betty.
 
 #touch hello
 It creates an empty text file named hello
+
+#chmod u+x hello
+It attaches an executable permission to the owner of the file hello.
