@@ -28,3 +28,6 @@ removes all permission from owner, and group owner, while it grants all permissi
 
 #sudo chmod --reference=olleh hello
 copies the file permission of olleh to hello
+
+#chmod +x */ or chmod +x . */
+Will attach execution rights to all directories in a folder
