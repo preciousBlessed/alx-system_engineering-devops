@@ -31,3 +31,6 @@ copies the file permission of olleh to hello
 
 #chmod +x */ or chmod +x . */
 Will attach execution rights to all directories in a folder
+
+#mkdir -m 751 my_dir
+makes a directory my_dir and gives it permission 751
