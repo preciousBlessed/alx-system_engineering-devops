@@ -7,3 +7,6 @@ to print current user.`
 
 #groups
 to print out all the groups the current user belongs to.
+
+#sudo chown betty hello
+This command will change the ownership of a file hello to betty
