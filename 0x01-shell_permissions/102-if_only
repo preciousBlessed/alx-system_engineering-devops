@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ -O guillaume ]; then chown betty hello
+if [ -O guillaume ] chown betty hello
