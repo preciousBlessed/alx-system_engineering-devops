@@ -17,5 +17,5 @@ It creates an empty text file named hello
 #chmod u+x hello
 It attaches an executable permission to the owner of the file hello.
 
-#chmod ug+x o+r hello
+#chmod ug+x, o+r hello
 It adds executable permission to the owner and group owner, and attaches read permission to all other users.
