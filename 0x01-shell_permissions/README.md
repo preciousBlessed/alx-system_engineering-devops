@@ -37,3 +37,8 @@ makes a directory my_dir and gives it permission 751
 
 #chrgp school hello
 Changes the ownership on the hello file to the group school
+
+#ADVANCED TASKS
+
+#chown vincent:staff * */
+change the owner to vincent and the group to staff for all files and directories.
