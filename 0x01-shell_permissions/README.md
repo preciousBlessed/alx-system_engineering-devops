@@ -22,3 +22,7 @@ It adds executable permission to the owner and group owner, and attaches read pe
 
 #chmod +x hello
 Will add the executable permission to user, group owner and all others.
+
+#chmod 007 hello
+removes all permission from owner, and group owner, while it grants all permission to ther users.
+
