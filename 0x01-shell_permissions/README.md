@@ -45,3 +45,54 @@ change the owner to vincent and the group to staff for all files and directories
 
 #chown -h vincent:staff _hello
 Changes the owner to vincent and the group to staff for a file _hello.
+
+#if
+
+#telnet towel.blinkenlights.nl
+command to play starwars on linux terminal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
