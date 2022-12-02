@@ -34,3 +34,6 @@ Will attach execution rights to all directories in a folder
 
 #mkdir -m 751 my_dir
 makes a directory my_dir and gives it permission 751
+
+#chrgp school hello
+Changes the ownership on the hello file to the group school
