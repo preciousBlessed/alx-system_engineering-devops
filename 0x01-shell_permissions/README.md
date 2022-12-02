@@ -26,3 +26,5 @@ Will add the executable permission to user, group owner and all others.
 #chmod 007 hello
 removes all permission from owner, and group owner, while it grants all permission to ther users.
 
+#sudo chmod --reference=olleh hello
+copies the file permission of olleh to hello
