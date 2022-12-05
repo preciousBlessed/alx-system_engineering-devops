@@ -1,2 +1,2 @@
 #!/bin/bash
-sh basic.sh
+[[ -O guillaume ]] && chown betty hello
