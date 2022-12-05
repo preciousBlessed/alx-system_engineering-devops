@@ -12,3 +12,6 @@ displays the contents of the two files passwd and hosts.
 
 #tail /etc/passwd
 displays the last 10 lines of the passwd file.
+
+#head /etc/passwd
+displays the first 10 lines of the passed file
