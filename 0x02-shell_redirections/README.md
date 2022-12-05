@@ -14,4 +14,10 @@ displays the contents of the two files passwd and hosts.
 displays the last 10 lines of the passwd file.
 
 #head /etc/passwd
-displays the first 10 lines of the passed file
+displays the first 10 lines of the passed file.
+
+#head -3 iacta | tail +3
+To display the 3rd line of a file
+head -n file | tail +n will display the n-th line of a file named file
+
+
