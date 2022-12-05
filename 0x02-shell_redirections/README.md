@@ -7,4 +7,5 @@ prints the confused smiley "(Ôo)'
 #cat /etc/passwd
 displays the content of the file passwd
 
-
+#echo /etc/passwd /etc/hosts
+displays the contents of the two files passwd and hosts
