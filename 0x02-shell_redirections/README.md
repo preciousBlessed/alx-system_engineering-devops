@@ -1,4 +1,4 @@
-#echo "Hello, World\n"
+#echo "Hello, World"
 -prints out hello world, followed by a newline to the standard output
 
 #echo "\"(Ôo)'"
@@ -19,5 +19,10 @@ displays the first 10 lines of the passed file.
 #head -3 iacta | tail +3
 To display the 3rd line of a file
 head -n file | tail +n will display the n-th line of a file named file
+
+#File creation
+
+#ls -la > ls_cwd_content
+will save the current state of tbe directorry in the file named ls_cwd_content
 
 
