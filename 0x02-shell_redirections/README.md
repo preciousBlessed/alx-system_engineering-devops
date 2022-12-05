@@ -25,5 +25,6 @@ head -n file | tail +n will display the n-th line of a file named file
 #ls -la > ls_cwd_content
 will save the current state of tbe directorry in the file named ls_cwd_content
 
-
+#tail -1 iacta >> iacta
+this will ducplicate the last line of the file called iacta
 
