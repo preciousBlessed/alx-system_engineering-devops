@@ -26,3 +26,4 @@ head -n file | tail +n will display the n-th line of a file named file
 will save the current state of tbe directorry in the file named ls_cwd_content
 
 
+
