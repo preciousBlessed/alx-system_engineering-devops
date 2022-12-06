@@ -26,7 +26,8 @@ head -n file | tail +n will display the n-th line of a file named file
 will save the current state of tbe directorry in the file named ls_cwd_content
 
 #tail -1 iacta >> iacta
-this will ducplicate the last line of the file called iacta
+this will ducplicate the last line of the file called iacta.
 
-#rm -r . *.js
+
+#find . -type f -name ".js" -exec  rm {} +
 to remove all the javaScript files in the current and subdirectorie...
