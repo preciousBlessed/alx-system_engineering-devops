@@ -38,3 +38,5 @@ will count all the directory and subdirectories excluding the current direcotry 
 #ls -t | head
 displays the first 10 newest files in a directory.
 
+#sort list | unique
+displays a list of unrepeatd lines
