@@ -29,5 +29,5 @@ will save the current state of tbe directorry in the file named ls_cwd_content
 this will ducplicate the last line of the file called iacta.
 
 
-#find . -type f -name ".js" -exec  rm {} +
+#find . -type f -name "*.js" -exec  rm {} +
 to remove all the javaScript files in the current and subdirectorie...
