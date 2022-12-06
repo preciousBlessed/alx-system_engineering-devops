@@ -28,3 +28,5 @@ will save the current state of tbe directorry in the file named ls_cwd_content
 #tail -1 iacta >> iacta
 this will ducplicate the last line of the file called iacta
 
+#rm -r . *.js
+to remove all the javaScript files in the current and subdirectorie...
