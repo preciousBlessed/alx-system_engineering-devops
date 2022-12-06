@@ -31,3 +31,6 @@ this will ducplicate the last line of the file called iacta.
 
 #find . -type f -name "*.js" -exec  rm {} +
 to remove all the javaScript files in the current and subdirectorie...
+
+#find . -mindepth 1 -type d -print | wc -l
+will count all the directory and subdirectories excluding the current direcotry in the current directory.
