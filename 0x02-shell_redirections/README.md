@@ -65,7 +65,7 @@
 # rev
 * to reverse the string from standard input.
 
-# cat /etc/passwd | sort
+# sort /etc/passwd
 * to sort all the items in etc/passwd by users (character precedence).
 
 
