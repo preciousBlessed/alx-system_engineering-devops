@@ -43,3 +43,6 @@ displays a list of unrepeatd lines
 
 #grep "root" /etc/passwd
 to find all the lines where the expression "root" occurs.
+
+#grep -c "bin" /etc/passwd
+will count the number of lines that have the pattern "bin"
