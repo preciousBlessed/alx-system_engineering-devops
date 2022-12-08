@@ -68,4 +68,7 @@
 # sort /etc/passwd
 * to sort all the items in etc/passwd by users (character precedence).
 
+# find . -empty
+* to find all empty files and sub-directories in the current directory.
+
 
