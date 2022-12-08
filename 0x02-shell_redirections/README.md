@@ -53,5 +53,8 @@
 # grep -v "bin" /etc/passwd
 * Will show all lines without the pattern "bin"
 
-# greo -i "^{A..Z}" /etc/ssh/sshd_config
+# grep -i "^[:alpha:]" /etc/ssh/sshd_config
 * displays line starting with a letter including capital letters.
+
+# tr "A,c" "Z,e"
+* will replace all "A" with "Z" and "c" with "e".
