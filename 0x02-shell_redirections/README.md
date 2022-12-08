@@ -40,3 +40,6 @@ displays the first 10 newest files in a directory.
 
 #sort list | uniq -u
 displays a list of unrepeatd lines
+
+#grep "root" /etc/passwd
+to find all the lines where the expression "root" occurs.
