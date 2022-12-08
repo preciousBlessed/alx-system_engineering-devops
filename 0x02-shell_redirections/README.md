@@ -59,5 +59,10 @@
 # tr "A,c" "Z,e"
 * will replace all "A" with "Z" and "c" with "e".
 
-#tr -d "C,c"
+# tr -d "C,c"
 * will remove "C" and "c" occurences from input.
+
+# rev
+* to reverse the string from standard input.
+
+
