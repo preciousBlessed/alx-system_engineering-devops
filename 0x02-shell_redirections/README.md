@@ -58,3 +58,6 @@
 
 # tr "A,c" "Z,e"
 * will replace all "A" with "Z" and "c" with "e".
+
+#tr -d "C,c"
+* will remove "C" and "c" occurences from input.
