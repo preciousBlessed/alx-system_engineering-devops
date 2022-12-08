@@ -71,4 +71,5 @@
 # find . -empty
 * to find all empty files and sub-directories in the current directory.
 
-
+# find . -type f -name "*.gif" -exec basename -a {} + |rev| cut -d"." -f2- |rev
+* to extract only the file  names for all gif files.
